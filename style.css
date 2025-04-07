@@ -184,11 +184,11 @@ h3 {
   text-align: center;
 }
 
-.flex_container {
+.flex-container {
   margin-top: 50px;
   display: flex;
   gap: 40px;
-  justify-content: center;
+
   flex-wrap: wrap;
 }
 
@@ -223,36 +223,120 @@ h3 {
 .card a:hover {
   background: transparent;
 }
-@media(max-width: 800px){
-    #services_section h2{
-        font-size: 12vw;
-    }
+@media (max-width: 800px) {
+  #services_section h2 {
+    font-size: 12vw;
+  }
 }
 
-footer{
-    padding: 70px 0;
-    background-color: greenyellow;
-
+footer {
+  padding: 70px 0;
+  background-color: greenyellow;
 }
 
-footer h2{
-    font-size: 50px;
-    text-align: center;
-
+footer h2 {
+  font-size: 50px;
+  text-align: center;
 }
 
-.grid_container{
-    margin: 60px auto;
-    width: 150px;
-    background: grey;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: 300px 300px;
-    gap: 15px;
-
+footer a {
+  color: #4267b2; /* Facebook-Blau */
+  text-decoration: none;
+  margin: 10px;
 }
 
-.grid_item{ 
-    background-color: yellow;
+footer a:hover {
+  color: blue; /* Dunkleres Blau beim Hover */
+}
 
+.grid_container {
+  margin: 60px auto;
+  width: 60vw;
+  background: grey;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  gap: 15px;
+}
+
+.grid_item {
+  background-color: lightblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 120px;
+  height: 100px;
+  margin: auto;
+  gap: 10px;
+}
+@media (max-width: 800px) {
+  .grid_container {
+    grid-template-columns: 1fr; /* Eine Spalte */
+  }
+  .flex-container {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+#item1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+#item1 a {
+  color: #4267b2; /* E-Mail-Blau */
+  text-decoration: none;
+  pointer-events: auto;
+}
+
+#item1 a:hover {
+  color: #365899;
+}
+
+#item2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+
+#item2 a {
+  color: #4267b2; /* Phone-Blau */
+  text-decoration: none;
+}
+
+#item2 a:hover {
+  color: #365899;
+}
+
+#item3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#item3 a {
+  color: #4267b2;
+  text-decoration: none;
+}
+
+#item3 a:hover {
+  color: #365899;
+}
+
+#item5 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#item5 a {
+  color: #4267b2; /* Facebook-Blau */
+  text-decoration: none;
+}
+
+#item5 a:hover {
+  color: #365899;
 }

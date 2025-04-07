@@ -1,0 +1,21 @@
+Beginn einer Portfolio-Seite für potenzielle Arbeitgeber
+
+Eine Portfolio-Seite ist dein persönliches Schaufenster für Arbeitgeber. 
+Sie sollte zeigen, was du kannst, und potenzielle Arbeitgeber beeindrucken. 
+Fokussiere dich auf Projekte, die deine Fähigkeiten und 
+Kreativität am besten repräsentieren.
+
+Bevor du beginnst, überlege dir die Struktur der Seite. 
+Wichtige Abschnitte sind zum Beispiel eine „Über mich“-Seite, 
+eine Projektübersicht und Kontaktinformationen.
+Design ist ein Schlüsselfaktor. 
+Deine Seite sollte klar, übersichtlich und optisch ansprechend sein. 
+Nutze Farben, die zu deinem Stil passen, und achte darauf, 
+dass die Seite sowohl auf Desktop als auch auf mobilen Geräten gut aussieht.
+Überlege, welche Technologien du einsetzen möchtest.
+GitHub Pages ist ideal, 
+um die Seite zu hosten, 
+und Tools wie Bootstrap oder Tailwind helfen, das Design zu vereinfachen.
+Halte die Inhalte aktuell. 
+Neue Projekte oder Fähigkeiten sollten regelmäßig hinzugefügt werden, 
+um dein Portfolio immer auf dem neuesten Stand zu halten.

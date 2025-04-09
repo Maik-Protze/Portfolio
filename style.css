@@ -11,7 +11,7 @@ header {
   width: 850px;
 }
 
-.circle {
+/*.circle {
   height: 600px;
   width: 600px;
   max-height: 80vw;
@@ -25,8 +25,15 @@ header {
 }
 
 /*height: 100%*/
-.circle img {
+/*.circle img {
   width: 100%;
+}*/
+
+img {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  filter: grayscale(100%);
 }
 
 nav {

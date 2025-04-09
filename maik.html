@@ -21,6 +21,33 @@
     <!--<link rel="stylesheet" href="header.css">-->
     <!--<link rel="stylesheet" href="aubot_me.css">-->
     <!--<link rel="stylesheet" href="services.css">-->
+
+    <!-- Zum Vergleich, die Elemente von CSS können auch im HTML geschrieben werden.-->
+    <style>
+      .circle {
+        /*width: 600px;
+        height: 600px;*/
+        overflow: hidden;
+        border-radius: 50%;
+        border: 10px solid blue;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transform: scale(1); /* Vergrößert den Kreis */
+      }
+
+      .circle img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.5s ease, filter 0.5s ease;
+      }
+
+      .circle img:hover {
+        transform: scale(1.2);
+        filter: grayscale(0%);
+      }
+    </style>
   </head>
   <body>
     <header>
@@ -45,22 +72,59 @@
       </div>
       <div class="circle">
         <!-- "images/herunter geladenes Bild einfügen"-->
+        <!-- <img
+          src=""
+          alt="Profilbild von Maik Protze"
+        /> -->
         <img
+          id="image"
           src="https://scontent-fra3-1.xx.fbcdn.net/v/t1.6435-9/71596597_2380510228662696_4490020512738574336_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=FxrAtW2oe_cQ7kNvwGehVCm&_nc_oc=AdkJX2mjyAHGeWux6dA_rHWW9hbgMzDoExfqwGeOA-9aTBKJyLooEWBet3IuwCKCxFwvoYSCbcS9nv2zId1vV7Vi&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=Wb8-Ce-phqDCRBMTzaG03w&oh=00_AfH5iBLWwMGfymrDdHVQve_cpD8s7yiWV81hp4NPzL175A&oe=681B0C58"
           alt="Profilbild von Maik Protze"
         />
+
+        <!-- https://scontent-fra3-1.xx.fbcdn.net/v/t1.6435-9/71596597_2380510228662696_4490020512738574336_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=FxrAtW2oe_cQ7kNvwGehVCm&_nc_oc=AdkJX2mjyAHGeWux6dA_rHWW9hbgMzDoExfqwGeOA-9aTBKJyLooEWBet3IuwCKCxFwvoYSCbcS9nv2zId1vV7Vi&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=Wb8-Ce-phqDCRBMTzaG03w&oh=00_AfH5iBLWwMGfymrDdHVQve_cpD8s7yiWV81hp4NPzL175A&oe=681B0C58 -->
+        <script>
+          const image = document.getElementById("image");
+          const circle = document.querySelector(".circle");
+          const circleWidth = circle.offsetWidth;
+          const circleHeight = circle.offsetHeight;
+          const imageWidth = image.offsetWidth;
+          const imageHeight = image.offsetHeight;
+          const scale = Math.max(
+            circleWidth / imageWidth,
+            circleHeight / imageHeight
+          );
+          const offsetX = (circleWidth - imageWidth * scale) / 2;
+          const offsetY = (circleHeight - imageHeight * scale) / 2;
+          image.style.transform = `translate(${offsetX}px, ${offsetY}px) scale(${scale})`;
+          image.style.transition = "transform 0.5s ease-in-out";
+          image.addEventListener("mouseover", () => {
+            image.style.transform = `translate(${offsetX}px, ${offsetY}px) scale(${
+              scale + 0.1
+            })`;
+          });
+          image.addEventListener("mouseout", () => {
+            image.style.transform = `translate(${offsetX}px, ${offsetY}px) scale(${scale})`;
+          });
+        </script>
       </div>
     </header>
-    <section id="about_me_section">
+    <!-- <section id="about_me_section">
       <img
         src="images/pexels-italo-melo-2379004 (1).jpg"
         alt="über mich Bild"
-      />
+      />-->
+    <section id="about_me_section">
+      <video controls width="600">
+        <!--<video autoplay loop muted width="600">-->
+        <source src="video/VID_20240624_140348.mp4" type="video/mp4" />
+        <source src="video/VID_20240624_140348.ogg" type="video/ogg" />
+      </video>
       <div class="about_me_container">
         <h2>Über mich</h2>
         <p>
-          Ich bin eine Person, die gerne neue Aufgaben entgegen nimmt und
-          selbständig darin arbeiten kann.
+          In der Ruhe, liegt die Kraft. Ich bin eine Person, die gerne neue
+          Aufgaben entgegen nimmt und selbständig darin arbeiten kann.
         </p>
       </div>
     </section>
@@ -123,14 +187,18 @@
                     </p> -->
         </div>
         <!-- <div id="item4" class="grid_item">
-                <a href="https://www.facebook.com/deinprofil" target="_blank">
+                <a href="https://www.facebook.com/maik.protze/" target="_blank">
                 <i class="fab fa-facebook fa-2x"></i>
                 </a>
                 </div> -->
 
         <div id="item5" class="grid_item">
-          <a href="https://www.facebook.com/maik.protze/" target="_blank">
-            <i class="fab fa-facebook fa-2x"></i>
+          <a
+            href="https://github.com/maik-protze"
+            target="_blank"
+            title="GitHub"
+          >
+            <i class="fab fa-github fa-2x"></i>
           </a>
         </div>
       </div>

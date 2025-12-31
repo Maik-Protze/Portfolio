@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="Author" content="Maik Protze" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portfolio Tutorial</title>
+
+    <link rel="stylesheet" href="./dist/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=menu"
+    />
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+      rel="stylesheet"
+    />
+    <!---->
+    <!--<link rel="stylesheet" href="general_settings.css">-->
+    <!--<link rel="stylesheet" href="header.css">-->
+    <!--<link rel="stylesheet" href="aubot_me.css">-->
+    <!--<link rel="stylesheet" href="services.css">-->
+
+    <!-- Zum Vergleich, die Elemente von CSS können auch im HTML geschrieben werden.-->
+    <style>
+      .circle {
+        width: 600px;
+        height: 600px;
+        overflow: hidden;
+        border-radius: 50%;
+        border: 10px solid blue;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transform: scale(1); /* Vergrößert den Kreis */
+      }
+
+      .circle img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.5s ease, filter 0.5s ease;
+      }
+
+      .circle img:hover {
+        transform: scale(1.2);
+        filter: grayscale(0%);
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="header_text">
+        <nav>
+          <input type="checkbox" id="toggle_button" />
+          <label for="toggle_button">
+            <span class="material-symbols-rounded">menu</span>
+          </label>
+          <ul>
+            <li><a href="#about_me_section">Über Mich</a></li>
+            <li><a href="#services_section">Personenbezogen</a></li>
+              <li><a href="#more_information_section">Kontakt</a></li>
+              <li><a href="resume.html" target="_blank" rel="noopener">Lebenslauf</a></li>
+          </ul>
+        </nav>
+        <h1>
+          Maik Protze<br />
+          <span style="color: blue">Webdeveloper</span>
+        </h1>
+
+        <p class="subheading">Immer wieder für was neues bereit.</p>
+      </div>
+      <div class="circle">
+        <!-- "images/herunter geladenes Bild einfügen"-->
+        <!-- <img
+          src=""
+          alt="Profilbild von Maik Protze"
+        /> -->
+        <img
+          id="image"
+          src="./profil.jpg"
+          alt="Profilbild von Maik Protze"
+        />
+
+        <!-- https://scontent-fra3-1.xx.fbcdn.net/v/t1.6435-9/71596597_2380510228662696_4490020512738574336_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=FxrAtW2oe_cQ7kNvwGehVCm&_nc_oc=AdkJX2mjyAHGeWux6dA_rHWW9hbgMzDoExfqwGeOA-9aTBKJyLooEWBet3IuwCKCxFwvoYSCbcS9nv2zId1vV7Vi&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=Wb8-Ce-phqDCRBMTzaG03w&oh=00_AfH5iBLWwMGfymrDdHVQve_cpD8s7yiWV81hp4NPzL175A&oe=681B0C58 -->
+        <script>
+          const image = document.getElementById("image");
+          const circle = document.querySelector(".circle");
+          const circleWidth = circle.offsetWidth;
+          const circleHeight = circle.offsetHeight;
+          const imageWidth = image.offsetWidth;
+          const imageHeight = image.offsetHeight;
+          const scale = Math.max(
+            circleWidth / imageWidth,
+            circleHeight / imageHeight
+          );
+          const offsetX = (circleWidth - imageWidth * scale) / 2;
+          const offsetY = (circleHeight - imageHeight * scale) / 2;
+          image.style.transform = `translate(${offsetX}px, ${offsetY}px) scale(${scale})`;
+          image.style.transition = "transform 0.5s ease-in-out";
+          image.addEventListener("mouseover", () => {
+            image.style.transform = `translate(${offsetX}px, ${offsetY}px) scale(${
+              scale + 0.1
+            })`;
+          });
+          image.addEventListener("mouseout", () => {
+            image.style.transform = `translate(${offsetX}px, ${offsetY}px) scale(${scale})`;
+          });
+        </script>
+      </div>
+    </header>
+    <!-- <section id="about_me_section">
+      <img
+        src="images/pexels-italo-melo-2379004 (1).jpg"
+        alt="über mich Bild"
+      />-->
+    <section id="about_me_section">
+      <!-- <video controls width="600"> -->
+        <video autoplay loop width="600">
+        <source src="./dist/video/VID_20240624_140348.mp4" type="video/mp4" />
+        <source src="./dist/video/video/VID_20240624_140348.ogg" type="video/ogg" />
+        <source src="./dist/video/VID_20240624_140348.webm" type="video/webm" />
+        Ihr Browser unterstützt dieses Video-Format nicht.
+      </video>
+      <div class="about_me_container">
+        <h2>Über mich</h2>
+        <p>
+          In der Ruhe, liegt die Kraft. Ich bin eine Person, die gerne neue
+          Aufgaben entgegen nimmt und selbständig darin arbeiten kann.
+        </p>
+      </div>
+    </section>
+    <section id="services_section">
+      <h2>Personenbezogen</h2>
+      <div class="flex-container">
+        <div class="card">
+          <h3>individuell</h3>
+          <p>- Zuverlässig</p>
+          <p>- Lernbereit</p>
+          <a href="#">Buchen</a>
+        </div>
+        <div class="card">
+          <h3>beruflicher Werdegang</h3>
+          <p>- in den letzten 12 Jahren Berufskraftfahrer</p>
+          <p>
+            - seit Dezember 2024 Umstieg zu Web-Development über eine
+            Weiterbildung
+          </p>
+
+          <a href="#">Buchen</a>
+        </div>
+        <div class="card">
+          <h3>Zielsetzung</h3>
+          <p>- flexible Arbeitszeiten</p>
+          <p>- fachliche Weiterbildungen</p>
+          <a href="#">Buchen</a>
+        </div>
+      </div>
+    </section>
+    <footer id="more_information_section">
+      <h2>Kontakt</h2>
+      <div class="grid_container">
+        <div id="item1" class="grid_item">
+          <a
+            href="mailto:maik.p11@web.de"
+            target="_blank"
+            title="E-Mail"
+          >
+            <i class="fas fa-envelope fa-2x"></i>
+          </a>
+          <div style="font-size:0.9rem;color:#666;margin-top:6px;">E-Mail (alt): maik.protze@student-dci.org (wird am 01.03.2026 entfernt)</div>
+          <!--<p>deinemail@example.com</p>-->
+        </div>
+        <div class="grid_item">
+          <a href="tel:+4917655001752" target="_blank">
+            <i class="fas fa-phone fa-2x"></i>
+          </a>
+          <!--<p>+49 151 23456789</p>-->
+        </div>
+        <div class="grid_item">
+          <a
+            href="https://www.google.com/maps/place/Lossaer+Str.+28,+04808+Thallwitz+OT+Böhlitz"
+            target="_blank"
+          >
+            <i class="fas fa-map-marker-alt fa-2x"></i>
+          </a>
+          
+        </div>
+        <div class="grid_item">
+                <a href="https://www.facebook.com/maik.protze/" target="_blank">
+                <i class="fab fa-facebook fa-2x"></i>
+                </a>
+                </div> 
+
+        <!-- GitHub link removed to avoid exposing GitHub-related data -->
+      </div>
+    </footer>
+  </body>
+</html>

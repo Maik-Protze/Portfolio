@@ -15,7 +15,7 @@ package-lock.json
 
 # Build / output
 site-publish.zip
-resume.pdf
+# resume.pdf
 
 # Logs
 logs/

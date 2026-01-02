@@ -10,7 +10,7 @@
     "contact_page": "https://www.web-pflege.com/kontakt/",
     "size_estimate": "small",
     "source": "https://www.gelbeseiten.de/gsbiz/a97d4143-5ee7-4782-a61a-4f6c551bc066",
-    "contact_verified": "auto-found",
+    "contact_verified": "confirmed",
     "contact_found_by": "https://www.web-pflege.com/kontakt/"
   },
   {
@@ -24,7 +24,7 @@
     "contact_page": "https://www.netresearch.de/kontakt/",
     "size_estimate": "small/medium",
     "source": "https://www.gelbeseiten.de/gsbiz/c5f16848-4d41-4790-8756-d7fa5c89b7be",
-    "contact_verified": "auto-found",
+    "contact_verified": "confirmed",
     "contact_found_by": "https://www.netresearch.de/kontakt/"
   },
   {
@@ -51,7 +51,7 @@
     "contact_page": "https://www.i-fabrik.de/kontakt/",
     "size_estimate": "small/medium",
     "source": "https://www.gelbeseiten.de/gsbiz/75c7ffe3-176a-49a9-98d6-055c7bc1a",
-    "contact_verified": "auto-found",
+    "contact_verified": "confirmed",
     "contact_found_by": "https://www.ifabrik.de/kontakt/"
   },
   {
@@ -65,7 +65,7 @@
     "contact_page": "https://www.comspace.de/kontakt/",
     "size_estimate": "medium",
     "source": "https://www.comspace.de/",
-    "contact_verified": "auto-found",
+    "contact_verified": "confirmed",
     "contact_found_by": "https://www.comspace.de/kontakt/"
   },
   {
@@ -92,7 +92,7 @@
     "contact_page": "https://www.htwk-leipzig.de/service/kontakt/",
     "size_estimate": "large",
     "source": "https://www.htwk-leipzig.de/",
-    "contact_verified": "auto-found",
+    "contact_verified": "confirmed",
     "contact_found_by": "https://www.htwk-leipzig.de"
   },
   {
@@ -106,7 +106,7 @@
     "contact_page": "https://www.uni-leipzig.de/universitaet/kontakt/",
     "size_estimate": "large",
     "source": "https://www.uni-leipzig.de/",
-    "contact_verified": "auto-found",
+    "contact_verified": "confirmed",
     "contact_found_by": "https://www.uni-leipzig.de/impressum"
   },
   {
@@ -146,7 +146,7 @@
     "contact_page": "https://www.lvz.de/service/kontakt/",
     "size_estimate": "medium",
     "source": "https://www.lvz.de/",
-    "contact_verified": "auto-found",
+    "contact_verified": "confirmed",
     "contact_found_by": "https://www.lvz.de"
   },
   {
@@ -160,7 +160,7 @@
     "contact_page": "https://www.mdr.de/unternehmen/kontakt/index.html",
     "size_estimate": "large",
     "source": "https://www.mdr.de/",
-    "contact_verified": "auto-found",
+    "contact_verified": "confirmed",
     "contact_found_by": "https://www.mdr.de/impressum/index.html"
   },
   {
@@ -301,11 +301,11 @@
     "distance_km": 35,
     "industry": "SaaS / software",
     "website": "https://www.tapio.one/",
-    "contact_email": "partner@tapio.one",
+    "contact_email": "career@tapio.one",
     "contact_page": "https://www.tapio.one/contact",
     "size_estimate": "small/medium",
     "source": "https://www.tapio.one/",
-    "contact_verified": "auto-found",
+    "contact_verified": "confirmed",
     "contact_found_by": "https://www.tapio.one/contact"
   },
   {
@@ -609,7 +609,7 @@
     "contact_page": "https://www.bennewitz.de/verwaltung/",
     "size_estimate": "small",
     "source": "https://www.bennewitz.de/",
-    "contact_verified": "auto-found",
+    "contact_verified": "confirmed",
     "contact_found_by": "https://www.segelschule-bennewitz.de/"
   }
 ]

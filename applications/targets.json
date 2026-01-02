@@ -6,11 +6,12 @@
     "distance_km": 36,
     "industry": "Digital agency / web maintenance",
     "website": "https://www.web-pflege.com/",
-    "contact_email": null,
+    "contact_email": "kontakt@web-pflege.com",
     "contact_page": "https://www.web-pflege.com/kontakt/",
     "size_estimate": "small",
     "source": "https://www.gelbeseiten.de/gsbiz/a97d4143-5ee7-4782-a61a-4f6c551bc066",
-    "contact_verified": "needs-check"
+    "contact_verified": "auto-found",
+    "contact_found_by": "https://www.web-pflege.com/kontakt/"
   },
   {
     "name": "Netresearch DTT GmbH",
@@ -19,11 +20,12 @@
     "distance_km": 34,
     "industry": "IT / e-commerce development",
     "website": "https://www.netresearch.de/",
-    "contact_email": "consulting@netresearch.de",
+    "contact_email": "info@netresearch.de",
     "contact_page": "https://www.netresearch.de/kontakt/",
     "size_estimate": "small/medium",
     "source": "https://www.gelbeseiten.de/gsbiz/c5f16848-4d41-4790-8756-d7fa5c89b7be",
-    "contact_verified": "confirmed"
+    "contact_verified": "auto-found",
+    "contact_found_by": "https://www.netresearch.de/kontakt/"
   },
   {
     "name": "alogra digital GmbH",
@@ -45,11 +47,12 @@
     "distance_km": 36,
     "industry": "Internet agency / web development",
     "website": "https://www.i-fabrik.de/",
-    "contact_email": null,
+    "contact_email": "heiko.pfefferkorn@ifabrik.de",
     "contact_page": "https://www.i-fabrik.de/kontakt/",
     "size_estimate": "small/medium",
     "source": "https://www.gelbeseiten.de/gsbiz/75c7ffe3-176a-49a9-98d6-055c7bc1a",
-    "contact_verified": "needs-check"
+    "contact_verified": "auto-found",
+    "contact_found_by": "https://www.ifabrik.de/kontakt/"
   },
   {
     "name": "comspace GmbH",
@@ -58,11 +61,12 @@
     "distance_km": 35,
     "industry": "Digital agency / software development",
     "website": "https://www.comspace.de/",
-    "contact_email": "info@comspace.de",
+    "contact_email": "sylvia.pauleikhoff@comspace.de",
     "contact_page": "https://www.comspace.de/kontakt/",
     "size_estimate": "medium",
     "source": "https://www.comspace.de/",
-    "contact_verified": "confirmed"
+    "contact_verified": "auto-found",
+    "contact_found_by": "https://www.comspace.de/kontakt/"
   },
   {
     "name": "Netzkern GmbH",
@@ -84,11 +88,12 @@
     "distance_km": 35,
     "industry": "Higher education / IT & media departments",
     "website": "https://www.htwk-leipzig.de/",
-    "contact_email": null,
+    "contact_email": "webredaktion@htwk-leipzig.de",
     "contact_page": "https://www.htwk-leipzig.de/service/kontakt/",
     "size_estimate": "large",
     "source": "https://www.htwk-leipzig.de/",
-    "contact_verified": "needs-check"
+    "contact_verified": "auto-found",
+    "contact_found_by": "https://www.htwk-leipzig.de"
   },
   {
     "name": "Universität Leipzig – IT-Services",
@@ -97,11 +102,12 @@
     "distance_km": 36,
     "industry": "Higher education / IT services",
     "website": "https://www.uni-leipzig.de/",
-    "contact_email": null,
+    "contact_email": "kommunikation@uni-leipzig.de",
     "contact_page": "https://www.uni-leipzig.de/universitaet/kontakt/",
     "size_estimate": "large",
     "source": "https://www.uni-leipzig.de/",
-    "contact_verified": "needs-check"
+    "contact_verified": "auto-found",
+    "contact_found_by": "https://www.uni-leipzig.de/impressum"
   },
   {
     "name": "Max-Planck-Institut für evolutionäre Anthropologie",
@@ -136,11 +142,12 @@
     "distance_km": 36,
     "industry": "Media / publishing",
     "website": "https://www.lvz.de/",
-    "contact_email": null,
+    "contact_email": "dave@bradshaw.net",
     "contact_page": "https://www.lvz.de/service/kontakt/",
     "size_estimate": "medium",
     "source": "https://www.lvz.de/",
-    "contact_verified": "needs-check"
+    "contact_verified": "auto-found",
+    "contact_found_by": "https://www.lvz.de"
   },
   {
     "name": "MDR Sachsen (Mitteldeutscher Rundfunk)",
@@ -149,11 +156,12 @@
     "distance_km": 35,
     "industry": "Broadcasting / media",
     "website": "https://www.mdr.de/",
-    "contact_email": null,
+    "contact_email": "rundfunkrat@mdr.de",
     "contact_page": "https://www.mdr.de/unternehmen/kontakt/index.html",
     "size_estimate": "large",
     "source": "https://www.mdr.de/",
-    "contact_verified": "needs-check"
+    "contact_verified": "auto-found",
+    "contact_found_by": "https://www.mdr.de/impressum/index.html"
   },
   {
     "name": "Radio PSR",
@@ -227,11 +235,12 @@
     "distance_km": 36,
     "industry": "Education / research / startup support",
     "website": "https://www.hhl.de/",
-    "contact_email": null,
+    "contact_email": "info@hhl.de",
     "contact_page": "https://www.hhl.de/en/contact/",
     "size_estimate": "medium",
     "source": "https://www.hhl.de/",
-    "contact_verified": "needs-check"
+    "contact_verified": "auto-found",
+    "contact_found_by": "https://www.hhl.de/imprint/"
   },
   {
     "name": "INPOSIA GmbH",
@@ -292,11 +301,12 @@
     "distance_km": 35,
     "industry": "SaaS / software",
     "website": "https://www.tapio.one/",
-    "contact_email": null,
+    "contact_email": "partner@tapio.one",
     "contact_page": "https://www.tapio.one/contact",
     "size_estimate": "small/medium",
     "source": "https://www.tapio.one/",
-    "contact_verified": "needs-check"
+    "contact_verified": "auto-found",
+    "contact_found_by": "https://www.tapio.one/contact"
   },
   {
     "name": "Grow Digital",
@@ -318,11 +328,12 @@
     "distance_km": 37,
     "industry": "Consulting / IT",
     "website": "https://www2.deloitte.com/de/de.html",
-    "contact_email": null,
+    "contact_email": "ethics@deloitte.de",
     "contact_page": "https://www2.deloitte.com/de/de/footerlinks/office-locations.html",
     "size_estimate": "large",
     "source": "https://www2.deloitte.com/de/de.html",
-    "contact_verified": "needs-check"
+    "contact_verified": "auto-found",
+    "contact_found_by": "https://www.deloitte.com/de/de/about/story/purpose-values.html"
   },
   {
     "name": "PSWGROUP",
@@ -331,11 +342,12 @@
     "distance_km": 36,
     "industry": "Digital agency / e-commerce",
     "website": "https://www.psw-group.de/",
-    "contact_email": null,
+    "contact_email": "support@psw.de",
     "contact_page": "https://www.psw-group.de/kontakt/",
     "size_estimate": "small/medium",
     "source": "https://www.psw-group.de/",
-    "contact_verified": "needs-check"
+    "contact_verified": "auto-found",
+    "contact_found_by": "https://www.psw-group.de/kontakt/"
   },
   {
     "name": "R.SA Radio",
@@ -357,11 +369,12 @@
     "distance_km": 18,
     "industry": "IT / agencies",
     "website": "https://www.eilenburg.de/",
-    "contact_email": null,
+    "contact_email": "Icon-60@2x.png",
     "contact_page": "https://www.eilenburg.de/",
     "size_estimate": "small",
     "source": "https://www.eilenburg.de/",
-    "contact_verified": "needs-check"
+    "contact_verified": "auto-found",
+    "contact_found_by": "https://www.eilenburg.de/"
   },
   {
     "name": "Wurzen – local digital businesses (directory)",
@@ -383,11 +396,12 @@
     "distance_km": 16,
     "industry": "Local IT / agencies",
     "website": "https://www.grimma.de/",
-    "contact_email": null,
+    "contact_email": "Icon-60@2x.png",
     "contact_page": "https://www.grimma.de/",
     "size_estimate": "small",
     "source": "https://www.grimma.de/",
-    "contact_verified": "needs-check"
+    "contact_verified": "auto-found",
+    "contact_found_by": "https://www.grimma.de/"
   },
   {
     "name": "Borna – Digital / agencies (local)",
@@ -435,11 +449,12 @@
     "distance_km": 30,
     "industry": "Local IT / digital",
     "website": "https://www.zwenkau.de/",
-    "contact_email": null,
+    "contact_email": "Icon-60@2x.png",
     "contact_page": "https://www.zwenkau.de/",
     "size_estimate": "small",
     "source": "https://www.zwenkau.de/",
-    "contact_verified": "needs-check"
+    "contact_verified": "auto-found",
+    "contact_found_by": "https://www.zwenkau.de/"
   },
   {
     "name": "Schkeuditz – Flughafen/Logistics IT",
@@ -474,11 +489,12 @@
     "distance_km": 43,
     "industry": "Local IT / e-commerce",
     "website": "https://www.riesa.de/",
-    "contact_email": null,
+    "contact_email": "info@stadt-riesa.de",
     "contact_page": "https://www.riesa.de/",
     "size_estimate": "small",
     "source": "https://www.riesa.de/",
-    "contact_verified": "needs-check"
+    "contact_verified": "auto-found",
+    "contact_found_by": "https://riesa.de/"
   },
   {
     "name": "Colditz – local digital businesses",
@@ -500,11 +516,12 @@
     "distance_km": 28,
     "industry": "Local IT / web",
     "website": "https://www.oschatz.de/",
-    "contact_email": "info@oschatz.de",
+    "contact_email": "OVM_logo2020_02@2x.png",
     "contact_page": "https://www.oschatz.de/",
     "size_estimate": "small",
     "source": "https://www.oschatz.de/",
-    "contact_verified": "confirmed"
+    "contact_verified": "auto-found",
+    "contact_found_by": "https://www.oschatz.de/"
   },
   {
     "name": "Torgau – municipal / local digital teams",
@@ -526,11 +543,12 @@
     "distance_km": 37,
     "industry": "Local IT / web",
     "website": "https://www.bad-dueben.de/",
-    "contact_email": "stadt@bad-dueben.de",
+    "contact_email": "erechnung@bad-dueben.de",
     "contact_page": "https://www.bad-dueben.de/",
     "size_estimate": "small",
     "source": "https://www.bad-dueben.de/",
-    "contact_verified": "confirmed"
+    "contact_verified": "auto-found",
+    "contact_found_by": "https://www.bad-dueben.de/"
   },
   {
     "name": "Halle (Saale) – regional IT & digital agencies",
@@ -539,11 +557,12 @@
     "distance_km": 38,
     "industry": "IT / digital agencies / media",
     "website": "https://www.halle.de/",
-    "contact_email": null,
+    "contact_email": "dlz-buergerbeteiligung@halle.de",
     "contact_page": "https://www.halle.de/",
     "size_estimate": "various",
     "source": "https://www.halle.de/",
-    "contact_verified": "needs-check"
+    "contact_verified": "auto-found",
+    "contact_found_by": "https://halle.de/impressum"
   },
   {
     "name": "Universitätsklinikum Leipzig – IT / digital teams",
@@ -552,11 +571,12 @@
     "distance_km": 36,
     "industry": "Healthcare / IT",
     "website": "https://www.uniklinikum-leipzig.de/",
-    "contact_email": null,
+    "contact_email": "%20mein.job@medizin.uni-leipzig.de",
     "contact_page": "https://www.uniklinikum-leipzig.de/service/kontakt/",
     "size_estimate": "large",
     "source": "https://www.uniklinikum-leipzig.de/",
-    "contact_verified": "needs-check"
+    "contact_verified": "auto-found",
+    "contact_found_by": "https://www.uniklinikum-leipzig.de/impressum"
   },
   {
     "name": "SpinLab / Startup Hub (Leipzig)",
@@ -565,11 +585,12 @@
     "distance_km": 36,
     "industry": "Startups / digital",
     "website": "https://www.spinlab.co/",
-    "contact_email": "info@spinlab.co",
+    "contact_email": "support@yourcompany.com",
     "contact_page": "https://www.spinlab.co/contact",
     "size_estimate": "small/medium",
     "source": "https://www.spinlab.co/",
-    "contact_verified": "confirmed"
+    "contact_verified": "auto-found",
+    "contact_found_by": "https://www.spinlab.co/contact"
   },
   {
     "name": "Bennewitz / Böhlitz municipal office",
@@ -578,10 +599,11 @@
     "distance_km": 0,
     "industry": "Municipal IT / digital",
     "website": "https://www.bennewitz.de/",
-    "contact_email": null,
+    "contact_email": "segelschule@bennewitz.de",
     "contact_page": "https://www.bennewitz.de/verwaltung/",
     "size_estimate": "small",
     "source": "https://www.bennewitz.de/",
-    "contact_verified": "needs-check"
+    "contact_verified": "auto-found",
+    "contact_found_by": "https://www.segelschule-bennewitz.de/"
   }
 ]

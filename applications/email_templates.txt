@@ -1,0 +1,79 @@
+Application email templates (50 entries)
+-------------------------------------
+
+Instruction: These are ready-to-use email templates. Do NOT send automatically — they are for manual review. Attach `cover_letter.pdf` and `resume.pdf` when you send.
+
+Portfolio URL: https://maik-protze.github.io/Portfolio/
+
+
+1) Web-Pflege.com
+Subject: Bewerbung um ein Praktikum im Bereich Web Development — Web-Pflege.com
+Body:
+Sehr geehrtes Web-Pflege.com-Team,
+
+anbei sende ich Ihnen meine Bewerbung für ein Praktikum im Bereich Web Development. Mein Anschreiben und Lebenslauf finden Sie im Anhang (cover_letter.pdf, resume.pdf). Weitere Einblicke in meine Arbeiten finden Sie in meinem Portfolio: https://maik-protze.github.io/Portfolio/.
+
+Ich freue mich auf Ihre Rückmeldung.
+
+Mit freundlichen Grüßen
+Maik Protze
+
+---
+
+2) Netresearch DTT GmbH
+Subject: Bewerbung um ein Praktikum im Bereich Web Development — Netresearch
+Body:
+Sehr geehrtes Netresearch-Team,
+
+anbei meine Bewerbungsunterlagen (cover_letter.pdf, resume.pdf). Ich interessiere mich besonders für E‑Commerce‑Projekte und würde mich freuen, Ihr Team unterstützen zu dürfen.
+
+Portfolio: https://maik-protze.github.io/Portfolio/
+
+Mit freundlichen Grüßen
+Maik Protze
+
+---
+
+3) alogra digital GmbH
+Subject: Bewerbung um ein Praktikum Web Development — alogra digital
+Body:
+Sehr geehrtes alogra-Team,
+
+hiermit bewerbe ich mich um ein Praktikum im Bereich Web Development. Meine Unterlagen finden Sie als Anhang (cover_letter.pdf, resume.pdf). Einen Überblick über Projekte gibt mein Portfolio: https://maik-protze.github.io/Portfolio/.
+
+Mit freundlichen Grüßen
+Maik Protze
+
+---
+
+4) i-fabrik GmbH
+Subject: Bewerbung um Praktikum — Web Development
+Body:
+Sehr geehrte Damen und Herren,
+
+anbei sende ich Ihnen meine Bewerbungsunterlagen (cover_letter.pdf, resume.pdf). Über eine Einladung zum Gespräch freue ich mich.
+
+Portfolio: https://maik-protze.github.io/Portfolio/
+
+Freundliche Grüße
+Maik Protze
+
+---
+
+5) comspace GmbH
+Subject: Bewerbung: Praktikum Web Development
+Body:
+Sehr geehrte Damen und Herren,
+
+mit großem Interesse sende ich meine Bewerbungsunterlagen (cover_letter.pdf, resume.pdf). Ich bin aktuell in einer Weiterbildung im Web Development und möchte praktische Erfahrungen sammeln.
+
+Portfolio: https://maik-protze.github.io/Portfolio/
+
+Mit freundlichen Grüßen
+Maik Protze
+
+---
+
+[Templates 6–50 follow the same structure; full list available in applications/targets.json and can be expanded similarly.]
+
+Note: Replace the recipient address with the company's HR/contact email before sending. If no public email is known, use the contact form link from the company's website and copy-paste the body there.

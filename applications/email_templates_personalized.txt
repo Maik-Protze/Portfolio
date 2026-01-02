@@ -1,0 +1,682 @@
+Personalized email templates for the 50 targets. Replace [Ihr Name], [Telefon], [Portfolio URL] before sending.
+
+---
+
+To: consulting@netresearch.de
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei Netresearch
+
+Sehr geehrtes Netresearch-Team,
+
+mein Name ist [Ihr Name]. Ich sende Ihnen anbei meine Bewerbungsunterlagen (Anschreiben & Lebenslauf) für ein Praktikum oder eine Einstiegsposition im Bereich IT / E‑Commerce. Besonders beeindruckt bin ich von Ihren Projekten im E‑Commerce‑Umfeld und Ihrer Herangehensweise an komplexe Integrationen.
+
+Gern würde ich mich in einem kurzen Gespräch vorstellen. 
+
+Mit freundlichen Grüßen,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei Web-Pflege.com
+
+Sehr geehrtes Team von Web-Pflege.com,
+
+mein Name ist [Ihr Name]. Ich sende Ihnen meine Bewerbungsunterlagen für ein Praktikum oder eine Einstiegsposition im Bereich Webpflege & Frontend-Entwicklung. Ich schätze Ihre Arbeit bei der Betreuung und Wartung von Webprojekten.
+
+Mit freundlichen Grüßen,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: info@comspace.de
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei comspace
+
+Sehr geehrtes comspace-Team,
+
+mein Name ist [Ihr Name]. Ich interessiere mich für Praktika oder Einstiegspositionen im Bereich Digitalagentur / Softwareentwicklung. Ihre Arbeiten im Bereich Digitale Experience haben mich besonders angesprochen.
+
+Viele Grüße,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei alogra digital GmbH
+
+Sehr geehrtes alogra-Team,
+
+mein Name ist [Ihr Name]. Ich freue mich, Ihnen meine Unterlagen für ein Praktikum oder eine Juniorposition im Bereich Digitalagentur zu senden.
+
+Mit freundlichen Grüßen,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei i-fabrik
+
+Sehr geehrtes i-fabrik-Team,
+
+mein Name ist [Ihr Name]. Anbei meine Bewerbungsunterlagen für eine Rolle im Bereich Webentwicklung und Webprojekte.
+
+Beste Grüße,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei Netzkern
+
+Sehr geehrtes Netzkern-Team,
+
+mein Name ist [Ihr Name]. Ich interessiere mich für Praktika oder Einstiegspositionen im E‑Commerce/Frontend‑Bereich.
+
+Viele Grüße,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei HTWK Leipzig
+
+Sehr geehrtes HTWK-Team,
+
+mein Name ist [Ihr Name]. Ich sende Ihnen meine Bewerbungsunterlagen für mögliche studentische Mitarbeit oder Praktika im IT‑/Medienbereich.
+
+Mit freundlichen Grüßen,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei Universität Leipzig (IT)
+
+Sehr geehrtes IT‑Team der Universität Leipzig,
+
+mein Name ist [Ihr Name]. Ich interessiere mich für studentische Hilfstätigkeiten oder Praktika im IT‑Bereich.
+
+Mit freundlichen Grüßen,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: info@eva.mpg.de
+Subject: Initiativbewerbung — Praktikum / Werkstudium am Max-Planck-Institut für evolutionäre Anthropologie
+
+Sehr geehrtes Team des MPI EVA,
+
+mein Name ist [Ihr Name]. Ich sende Ihnen meine Unterlagen für ein Praktikum oder eine studentische Mitarbeit im Bereich Forschung / IT. Ihr interdisziplinärer Forschungsansatz interessiert mich sehr.
+
+Mit freundlichen Grüßen,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei Fraunhofer (Standorte)
+
+Sehr geehrtes Fraunhofer‑Team,
+
+mein Name ist [Ihr Name]. Ich freue mich, meine Unterlagen für mögliche Praktika oder Einstiegspositionen in den angewandten Forschungsbereichen zu senden.
+
+Viele Grüße,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei Leipziger Volkszeitung (LVZ)
+
+Sehr geehrtes LVZ‑Team,
+
+mein Name ist [Ihr Name]. Ich interessiere mich für Stellen im Bereich Digital / Web / Content.
+
+Mit freundlichen Grüßen,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei MDR Sachsen
+
+Sehr geehrtes MDR‑Team,
+
+mein Name ist [Ihr Name]. Ich sende Ihnen meine Bewerbungsunterlagen für mögliche Praktika oder Einstiegsrollen im Bereich Medien/IT.
+
+Viele Grüße,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei Radio PSR
+
+Sehr geehrtes Radio PSR Team,
+
+mein Name ist [Ihr Name]. Anbei meine Bewerbungsunterlagen für positionen im Bereich Medien/Technik.
+
+Mit freundlichen Grüßen,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei BMW Werk Leipzig (IT)
+
+Sehr geehrtes BMW‑Team,
+
+mein Name ist [Ihr Name]. Ich interessiere mich für Praktika oder Einstiegsrollen in IT/Engineering.
+
+Viele Grüße,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei SCOPE Marketing
+
+Sehr geehrtes SCOPE‑Team,
+
+mein Name ist [Ihr Name]. Ich sende meine Unterlagen für mögliche Rollen im Marketing / Digital.
+
+Mit freundlichen Grüßen,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei DREIPOL
+
+Sehr geehrtes Dreipol‑Team,
+
+mein Name ist [Ihr Name]. Ich interessiere mich für Rollen im Bereich Digitalagentur / Web.
+
+Viele Grüße,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: buergerservice@markkleeberg.de
+Subject: Initiativbewerbung — Mitarbeit / Praktikum in Markkleeberg (Digital/IT)
+
+Sehr geehrtes Team,
+
+mein Name ist [Ihr Name]. Ich sende Ihnen meine Bewerbungsunterlagen für Tätigkeiten im Bereich Digital/IT in der Region Markkleeberg.
+
+Mit freundlichen Grüßen,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei HHL Leipzig
+
+Sehr geehrtes HHL‑Team,
+
+mein Name ist [Ihr Name]. Ich interessiere mich für studentische Mitarbeit oder Praktika in Projekten rund um Startups und Digitalisierung.
+
+Viele Grüße,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei INPOSIA
+
+Sehr geehrtes INPOSIA‑Team,
+
+mein Name ist [Ihr Name]. Anbei meine Unterlagen für mögliche Rollen im Bereich IT/Development.
+
+Mit freundlichen Grüßen,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei Mephisto 97.6
+
+Sehr geehrtes Mephisto‑Team,
+
+mein Name ist [Ihr Name]. Ich sende meine Unterlagen für Mitarbeit im Bereich Radio/Medien.
+
+Viele Grüße,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei Netural
+
+Sehr geehrtes Netural‑Team,
+
+mein Name ist [Ihr Name]. Ich interessiere mich für Praktika oder Einstiegsrollen im Bereich Digitalagentur.
+
+Mit freundlichen Grüßen,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei INFARM
+
+Sehr geehrtes INFARM‑Team,
+
+mein Name ist [Ihr Name]. Ich sende Ihnen meine Bewerbungsunterlagen für mögliche technische oder digitale Rollen.
+
+Viele Grüße,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei Tapio
+
+Sehr geehrtes Tapio‑Team,
+
+mein Name ist [Ihr Name]. Anbei meine Unterlagen für mögliche Rollen im SaaS/Software‑Bereich.
+
+Mit freundlichen Grüßen,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei Grow Digital
+
+Sehr geehrtes Grow Digital Team,
+
+mein Name ist [Ihr Name]. Ich interessiere mich für Rollen im Bereich Marketing / Digital.
+
+Viele Grüße,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei Deloitte (Leipzig)
+
+Sehr geehrtes Deloitte Team,
+
+mein Name ist [Ihr Name]. Ich sende Ihnen meine Bewerbungsunterlagen für Praktika oder Werkstudententätigkeiten im Consulting/IT.
+
+Mit freundlichen Grüßen,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei PSW GROUP
+
+Sehr geehrtes PSW Team,
+
+mein Name ist [Ihr Name]. Ich sende meine Unterlagen für mögliche Rollen im E‑Commerce/Digital.
+
+Viele Grüße,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: marketing@rsa.de
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei R.SA Radio
+
+Sehr geehrtes Team,
+
+mein Name ist [Ihr Name]. Ich sende meine Bewerbungsunterlagen für Positionen im Bereich Medien/Technik.
+
+Mit freundlichen Grüßen,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle in Eilenburg
+
+Sehr geehrtes Team,
+
+mein Name ist [Ihr Name]. Ich sende meine Unterlagen für mögliche Rollen bei lokalen Agenturen/IT‑Dienstleistern.
+
+Viele Grüße,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle in Wurzen
+
+Sehr geehrtes Team,
+
+mein Name ist [Ihr Name]. Ich interessiere mich für Tätigkeiten bei lokalen Digital‑Anbietern.
+
+Mit freundlichen Grüßen,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle in Grimma
+
+Sehr geehrtes Team,
+
+mein Name ist [Ihr Name]. Ich sende meine Unterlagen für mögliche Rollen bei lokalen Agenturen.
+
+Viele Grüße,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: stadtverwaltung@borna.de
+Subject: Initiativbewerbung — Mitarbeit / Praktikum in Borna (Digital/IT)
+
+Sehr geehrtes Team der Stadtverwaltung Borna,
+
+mein Name ist [Ihr Name]. Ich sende meine Bewerbungsunterlagen für mögliche Tätigkeiten im Bereich Digital/IT der Kommune.
+
+Mit freundlichen Grüßen,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle in Taucha
+
+Sehr geehrtes Team,
+
+mein Name ist [Ihr Name]. Ich sende meine Unterlagen für mögliche Rollen bei lokalen Dienstleistern.
+
+Viele Grüße,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: gemeinde@borsdorf.de
+Subject: Initiativbewerbung — Mitarbeit / Praktikum in Borsdorf (Digital/IT)
+
+Sehr geehrtes Team,
+
+mein Name ist [Ihr Name]. Ich sende meine Bewerbungsunterlagen für mögliche Tätigkeiten im Bereich Digital/IT der Kommune.
+
+Mit freundlichen Grüßen,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle in Zwenkau
+
+Sehr geehrtes Team,
+
+mein Name ist [Ihr Name]. Ich sende meine Unterlagen für mögliche Rollen bei lokalen Anbietern.
+
+Viele Grüße,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle beim Flughafen Leipzig/Halle (IT)
+
+Sehr geehrtes Team,
+
+mein Name ist [Ihr Name]. Ich interessiere mich für Praktika oder Einstiegspositionen im Bereich Logistik/IT.
+
+Beste Grüße,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle in Döbeln
+
+Sehr geehrtes Team,
+
+mein Name ist [Ihr Name]. Ich sende meine Unterlagen für mögliche Rollen bei lokalen IT‑Dienstleistern.
+
+Mit freundlichen Grüßen,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle in Riesa
+
+Sehr geehrtes Team,
+
+mein Name ist [Ihr Name]. Ich würde mich über die Möglichkeit einer Tätigkeit in Ihrer Region freuen.
+
+Viele Grüße,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle in Colditz
+
+Sehr geehrtes Team,
+
+mein Name ist [Ihr Name]. Ich sende meine Unterlagen zur Prüfung für mögliche Rollen.
+
+Mit freundlichen Grüßen,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: info@oschatz.de
+Subject: Initiativbewerbung — Praktikum / Juniorrolle bei Oschatz Visuelle Medien
+
+Sehr geehrtes Oschatz‑Team,
+
+mein Name ist [Ihr Name]. Ich interessiere mich für Rollen im Bereich Visual Media / Web.
+
+Beste Grüße,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle in Torgau
+
+Sehr geehrtes Team,
+
+mein Name ist [Ihr Name]. Ich sende meine Unterlagen für mögliche lokale Stellen.
+
+Viele Grüße,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: stadt@bad-dueben.de
+Subject: Initiativbewerbung — Mitarbeit / Praktikum in Bad Düben (Digital/IT)
+
+Sehr geehrtes Team,
+
+mein Name ist [Ihr Name]. Ich sende meine Bewerbungsunterlagen für Tätigkeiten im Bereich Digital/IT in der Kommune.
+
+Mit freundlichen Grüßen,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle in Halle (Saale)
+
+Sehr geehrtes Team,
+
+mein Name ist [Ihr Name]. Ich sende meine Unterlagen für mögliche Rollen bei Agenturen/Unternehmen in Halle.
+
+Viele Grüße,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Praktikum / Juniorrolle beim Universitätsklinikum Leipzig (IT)
+
+Sehr geehrtes IT‑Team,
+
+mein Name ist [Ihr Name]. Ich interessiere mich für Stellen im Bereich Healthcare IT / Digitalisierung.
+
+Beste Grüße,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: info@spinlab.co
+Subject: Initiativbewerbung — Mitarbeit / Praktikum bei SpinLab
+
+Hallo SpinLab‑Team,
+
+mein Name ist [Ihr Name]. Ich interessiere mich für eine Mitarbeit im Startup‑/Accelerator‑Umfeld und sende meine Unterlagen.
+
+Viele Grüße,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+To: [CONTACT_EMAIL]
+Subject: Initiativbewerbung — Mitarbeit / Praktikum Bennewitz
+
+Sehr geehrtes Team,
+
+mein Name ist [Ihr Name]. Ich sende meine Unterlagen für mögliche Tätigkeiten im kommunalen/regionale Umfeld.
+
+Mit freundlichen Grüßen,
+[Ihr Name]
+[Telefon]
+[Portfolio URL]
+Attachments: cover_letter.pdf, resume.pdf
+
+---
+
+End of templates. Fill in [Ihr Name], [Telefon], [Portfolio URL] and replace [CONTACT_EMAIL] where needed before sending.

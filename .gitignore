@@ -1,0 +1,21 @@
+# Backup and archive files
+*.bak
+*.tgz
+site-publish.zip
+
+# Editor directories
+.vscode/
+.idea/
+
+# Node dependencies
+node_modules/
+
+# OS files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log

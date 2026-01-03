@@ -25,15 +25,15 @@
   <body>
     <header>
       <h1>Maik Protze</h1>
-      <p class="meta">Webdeveloper — maik.p11@web.de (alt: maik.protze@student-dci.org, wird 01.03.2026 entfernt) — +49 176 550 017 52</p>
+      <p class="meta">Webdeveloper — maik.p11@web.de (alt: maik.protze@student-dci.org, wird 01.03.2026 entfernt) — 0176 550 017 52</p>
     </header>
 
     <main>
       <div class="two-col">
-          <aside class="left">
+        <aside class="left">
           <h2>Persönliche Daten</h2>
-          <p>Adresse: Lossaer Straße 28, 04808 Thallwitz OT Böhlitz</p>
-          <p>Geburtsdatum: (eintragen)</p>
+          <p>Adresse: Lossaer Str. 28, 04808 Thallwitz OT Böhlitz</p>
+          <p>Geburtsdatum: (01.05.1980)</p>
 
           <h2>Skills</h2>
           <ul>
@@ -77,9 +77,13 @@
           Datei → Drucken → „Als PDF speichern“). Alternativ kannst du das
           mit dem beiliegenden Skript automatisch erzeugen.
         </p>
-        <p><a href="resume.pdf" target="_blank" rel="noopener">Lebenslauf (PDF) herunterladen</a></p>
+        <p>
+          <a href="resume.pdf" target="_blank" rel="noopener">Lebenslauf (PDF) herunterladen</a>
+          <span style="font-size:0.85rem;color:#666;margin-left:8px;">(Fallback: <a href="https://raw.githubusercontent.com/Maik-Protze/Portfolio/gh-pages/resume.pdf" target="_blank" rel="noopener">RAW</a>)</span>
+        </p>
         <p>
           Anschreiben (PDF): <a href="cover_letter.pdf" target="_blank" rel="noopener">Anschreiben herunterladen</a>
+          <span style="font-size:0.85rem;color:#666;margin-left:8px;">(Fallback: <a href="https://raw.githubusercontent.com/Maik-Protze/Portfolio/gh-pages/cover_letter.pdf" target="_blank" rel="noopener">RAW</a>)</span>
         </p>
         <p>
           Quellcode (nur Download, nicht editierbar online):
@@ -100,7 +104,11 @@
         <div style="margin-top:12px;">
           <!-- Embed the local PDF (resume.pdf) for direct viewing. -->
           <object data="resume.pdf" type="application/pdf" width="100%" height="800">
-            <p>Ihr Browser unterstützt die direkte Anzeige von PDFs nicht. <a href="resume.pdf" target="_blank">Resume (PDF) herunterladen</a>.</p>
+            <p>
+              Ihr Browser unterstützt die direkte Anzeige von PDFs nicht.
+              <a href="resume.pdf" target="_blank">Resume (PDF) herunterladen</a>
+              — <a href="https://raw.githubusercontent.com/Maik-Protze/Portfolio/gh-pages/resume.pdf" target="_blank">Download (RAW fallback)</a>.
+            </p>
           </object>
         </div>
         <p style="font-size:0.9em;color:#555;margin-top:8px;">Tipp: Exportiere bei Änderungen im NovoResume den PDF‑Export und lade die Datei als `resume.pdf` in dein Projekt, dann neu deployen (siehe `DEPLOY.md`).</p>
